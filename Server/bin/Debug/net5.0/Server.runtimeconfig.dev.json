@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/volja/.dotnet/store/|arch|/|tfm|",
+      "/home/volja/.nuget/packages"
+    ]
+  }
+}
